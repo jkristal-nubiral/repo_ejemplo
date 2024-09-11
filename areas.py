@@ -4,5 +4,4 @@ def area_rectangulo(b, h):
 def area_circulo(r):
     return r*3.1415
 
-
 # comment
